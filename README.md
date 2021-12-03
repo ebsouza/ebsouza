@@ -2,19 +2,12 @@
 
 <img src="assets/EBSouza.png" alt="drawing" width="600"/>
 
-> ## **About**
-> 
-> #### Bachelor's Degree in Industrial Engineering and Master in Computational Modeling,  he has experience in development,<br> teaching and researching. Data products development is his major skill.
->
-> #### He has taught in undergraduate courses, created online course on Udemy platform and has been writing articles to begginers.
 
+* ###   [Main projects](https://github.com/ebsouza/ebsouza/tree/main/projects)
 
+* ###  [Education](https://github.com/ebsouza/python)
 
-* ###   [Main projects]()
-
-* ###  [Education]()
-
-* ###  [Tech articles]()
+* ###  [Tech articles](https://github.com/ebsouza/ebsouza/tree/main/articles)
 
 
 
