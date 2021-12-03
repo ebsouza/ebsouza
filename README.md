@@ -6,10 +6,10 @@ He has taught in undergraduate courses, created online course on Udemy platform 
 
 ### [Github projects]
 
--[Image Storage Server](https://github.com/ebsouza/ImageStorage)
--[Q&A game - Written in pure python](https://github.com/ebsouza/PythonGame)
--[My first Game - Game Make Studio](https://github.com/ebsouza/SimonsNightmare)
--[Python for education (pt-br)](https://github.com/ebsouza/PythonGame)
+- [Image Storage Server](https://github.com/ebsouza/ImageStorage)
+- [Q&A game - Written in pure python](https://github.com/ebsouza/PythonGame)
+- [My first Game - Game Make Studio](https://github.com/ebsouza/SimonsNightmare)
+- [Python for education (pt-br)](https://github.com/ebsouza/PythonGame)
 
 
 ### [On Udemy]
