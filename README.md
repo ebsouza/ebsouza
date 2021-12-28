@@ -1,7 +1,7 @@
 
 <img src="assets/EBSouza.png" alt="drawing" width="350"/>
 
-* #### [Main projects](https://github.com/ebsouza/ebsouza/tree/main/projects) 
+* #### [Personal projects](https://github.com/ebsouza/ebsouza/tree/main/projects) 
 * #### [Education](https://github.com/ebsouza/python) 
 * #### [Tech articles](https://github.com/ebsouza/ebsouza/tree/main/articles)
 
