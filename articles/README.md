@@ -1,6 +1,7 @@
 
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 
+- [Two ways to read text files in Go (2023)](https://medium.com/@ebsouza/two-ways-to-read-text-files-in-go-16d60101a2ed)
 - [Clean Code: Em busca de nomes significativos (2023)](https://medium.com/data-hackers/clean-code-em-busca-de-nomes-significativos-6f2bcab9a6e9)
 - [Python Essencial: Muito além da lógica de programação (2021)](https://medium.com/@ebsouza/python-essencial-muito-al%C3%A9m-da-l%C3%B3gica-de-programa%C3%A7%C3%A3o-c832c96d5ea7)
 - [Algoritmo, o que é isso? (2021)](https://medium.com/data-hackers/algoritmo-o-que-%C3%A9-isso-a2af4f8663e9)
