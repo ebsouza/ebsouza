@@ -1,6 +1,8 @@
 
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 
+- [Test coverage: does 100% test coverage mean full assurance of quality? (2024)](https://medium.com/@ebsouza/test-coverage-does-100-test-coverage-mean-full-assurance-of-quality-3404106b1d9f)
+- [Cobertura de testes: 100% de cobertura significa garantia total de qualidade? (2024)](https://medium.com/@ebsouza/cobertura-de-testes-100-de-cobertura-significa-garantia-total-de-qualidade-5d50906d13dd)
 - [Two ways to read text files in Go (2023)](https://medium.com/@ebsouza/two-ways-to-read-text-files-in-go-16d60101a2ed)
 - [Clean Code: Em busca de nomes significativos (2023)](https://medium.com/data-hackers/clean-code-em-busca-de-nomes-significativos-6f2bcab9a6e9)
 - [Python Essencial: Muito além da lógica de programação (2021)](https://medium.com/@ebsouza/python-essencial-muito-al%C3%A9m-da-l%C3%B3gica-de-programa%C3%A7%C3%A3o-c832c96d5ea7)
