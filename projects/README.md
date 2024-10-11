@@ -3,6 +3,7 @@
 
 - [Image Storage Server - FastAPI, Python](https://github.com/ebsouza/ImageStorage)
 - [ToDo App - Gin/Gorm, Go](https://github.com/ebsouza/todo-app)
+- Small Go projects - [[GoCI](https://github.com/ebsouza/go-code/tree/main/goci)], [[FSWalk](https://github.com/ebsouza/go-code/tree/main/fswalk)]
 - [Reddit(Old) - Webcrawler, Python ](https://github.com/ebsouza/subreddit_crawler)
 - [Q&A game - Python](https://github.com/ebsouza/PythonGame)
 - [My first Game - Game Make Studio](https://github.com/ebsouza/SimonsNightmare)
